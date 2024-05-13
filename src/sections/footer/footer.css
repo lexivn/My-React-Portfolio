@@ -1,6 +1,7 @@
 footer {
   background: var(--color-primary);
   padding-top: 8rem;
+  padding-bottom: 0.5rem;
   box-shadow: 0 -1rem 1.5rem
   hsla(var(--primary-hue), 68%, 42%, 20%);
   transition: var(--transition);
@@ -17,11 +18,15 @@ footer .nav__menu {
   margin: 3rem auto 4rem;
 }
 
-.footer_social a {
-  background-color: var(--color-black);
+.footer__socials a {  
+  width: 1.8rem;
+  aspect-ratio: 1/1;  /* When width change, height also change */
+  background: var(--color-black);  
   color: var(--color-white);
-  padding: 0.6rem;
+  display: grid;
+  place-items: center;
   border-radius: var(--border-radius-3);
+
 }
 
 .footer__socials a:hover {
