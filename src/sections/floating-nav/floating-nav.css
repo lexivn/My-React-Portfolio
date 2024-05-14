@@ -1,0 +1,35 @@
+#floating__nav {
+  display: none;  
+}
+
+/* MEDIA QUERIES TABLETS AND PHONES */
+@media screen and (max-width: 1024px){
+  #floating__nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    bottom: 3rem;
+    /* transform: translateX(-50%); */
+  } 
+  
+  .navbar {
+    display: flex;
+    gap: 1rem;
+    background: rgb(0, 0,0, 0.4);
+    padding: 0.8rem 1.5rem;
+    border-radius: 3rem;
+    backdrop-filter: blur(20px);
+    /* filter: blur(8px); */
+    -webkit-backdrop-filter: blur(20px);
+  }
+
+  .navbar a {
+    padding: 0.6rem;
+    border-radius: 50%;
+    font-size: 1.3rem;
+    color: white;
+    display: grid;
+
+
+  }
+}
