@@ -15,7 +15,7 @@ const FloatingNav = () => {
     // </ul>
 
     <ul id='floating__nav'>
-      <Nav className='navbar'>
+      <Nav className='navbar' >
         {
           data.map(item => <Navbar key={item.id} item={item} />)
         }
