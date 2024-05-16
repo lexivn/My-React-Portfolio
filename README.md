@@ -5,8 +5,8 @@ Building projects my clients love have always been my passion. Being in the web 
 Hi, my name is Alex Soto from Lima, Peru. I'm a full-stack web developer with a Bachelors degree in Electronic Engineering. My top priority is to get your business online the right way, giving you industry-standard design and all the functionality you need to operate smoothly online. Get in touch today with the details of your project let's get started! Check out my resume below!
 
 <p>
-<img width="300" alt="image" src="https://github.com/lexivn/My-React-Portfolio/blob/main/src/assets/img/header.png">
-<img width="300" alt="image" src="https://github.com/lexivn/My-React-Portfolio/blob/main/src/assets/img/about_me.png">
+<img width="800" alt="image" src="https://github.com/lexivn/My-React-Portfolio/blob/main/src/assets/img/header.png">
+<img width="800" alt="image" src="https://github.com/lexivn/My-React-Portfolio/blob/main/src/assets/img/about_me.png">
 </p>
 
 ## Description
