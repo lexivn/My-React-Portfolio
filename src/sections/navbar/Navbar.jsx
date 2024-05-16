@@ -19,7 +19,7 @@ const Navbar = () => {
             </li>
           ))}
         </ul>
-        <button id='theme__icon'><IoIosColorPalette /></button>
+        {/* <button id='theme__icon'><IoIosColorPalette /></button> */}
       </div>
     </nav>
   );
