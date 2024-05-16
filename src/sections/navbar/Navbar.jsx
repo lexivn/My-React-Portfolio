@@ -7,7 +7,7 @@ import "./navbar.css";
 
 const Navbar = () => {
   return (
-    <nav>
+    <nav className="nav">
       <div className="container nav__container">
         <a href="index.html" className="nav__logo">
           <img src={Logo} alt="Logo" />
@@ -19,7 +19,7 @@ const Navbar = () => {
             </li>
           ))}
         </ul>
-        <button id='theme__icon'><IoIosColorPalette /></button>
+        {/* <button id='theme__icon'><IoIosColorPalette /></button> */}
       </div>
     </nav>
   );

@@ -1,0 +1,38 @@
+#floating__nav {
+  display: none; 
+}
+
+/* MEDIA QUERIES TABLETS AND PHONES */
+@media screen and (max-width: 1024px){
+  #floating__nav {
+    display: flex;
+    align-items: center;    
+    bottom: 3rem;    
+    position: fixed; 
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 9;
+  } 
+  
+  .navbar {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 1rem;
+    background: rgb(0, 0, 0, 0.4);
+    padding: 0.8rem 1.5rem;
+    border-radius: 3rem;    
+    backdrop-filter: blur(20px);     
+  }
+  .nav {
+    flex-wrap: nowrap;
+  }
+
+  .navbar a {
+    display: flex;
+    padding: 0.6rem;
+    border-radius: 50%;
+    font-size: 1.3rem;
+    color: white;
+    display: grid;    
+  }
+}

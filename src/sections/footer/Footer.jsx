@@ -15,9 +15,8 @@ const Footer = () => {
             socials.map(social => <a key={social.id} href={social.link} target='_blank' rel='noopener noreferrer'>{social.icon}</a>)
           }
         </div>
-      </div>
+      </div>      
     </footer>
-
   )
 }
 

@@ -3,6 +3,7 @@ import Image2 from '../../assets/project2.png'
 import Image3 from '../../assets/project3.png'
 import Image4 from '../../assets/project4.png'
 import Image5 from '../../assets/project5.png'
+import Image6 from '../../assets/project6.png'
 
 
 const data = [
@@ -50,7 +51,16 @@ const data = [
         desc: "The chat app is for mobile devices using React Native. The app will provide users with a chat interface and options to chat, share images and their location.",
         demo: 'https://github.com/lexivn/chat-app',
         github: 'https://github.com/lexivn/chat-app'
-    }    
+    },
+    {
+      id: 6,
+      category: 'backend',
+      image: Image6,
+      title: "Movie App Project (Backend)",
+      desc: "This API provides information about movies, genres, and directors. Users can interact with the API to retrieve details about movies, genres, directors, create new users, and manage their favorite movies.",
+      demo: 'https://lexivn.github.io/movie_api/',
+      github: 'https://github.com/lexivn/movie_api'
+  }     
 ]
 
 
