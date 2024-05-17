@@ -28,11 +28,20 @@ const About = () => {
             }
           </div>
           <p>
-            Building projects my clients love have always been my passion. Being in the web development industry for over 1+ years and serving more than 2 happy clients worldwide, I'm always motivated to do more!
+            My name is Alex Soto, passionate about web development, electronics and technologies.
           </p>
           <p>
-            Hi, my name is Alex Soto from Lima, Peru. I'm a full-stack web developer with a Bachelors degree in  Electronic Engineering. My top priority is to get your business online the right way, giving you industry-standard design and all the functionality you need to operate smoothly online. Get in touch today with the details of your project let's get started! Check out my resume below!
+          With a background in Electronic Engineering, 12+ years of experience in Information Technology, Networking and 1+ years of experience dedicated to the research and development of electronic devices for traffic control. My passion for programming was born at a very young age programming microcontrollers for my electronic projects, with the passing of time I saw the birth of IOT and I was impressed with all that can be created combining electronics and web development. 
           </p>
+          <p>
+          To turn my passion for programming into my daily work, I completed the Full-Stack Web Developer program at Career Foundry (Berlin, Germany), learning JavaScript, Node.js, Express, React, Angular NoSQL and much more.
+          </p>
+          <p>
+          Originally from Peru, I was fortunate to live and work for many years in Italy as a Project Engineer and gain valuable experience in back-end development using C++ and C#. Now I am proud to live in Jacksonville, in the beautiful sunny state of Florida, USA.
+          </p>
+          <p>
+          Currently, I'm on the lookout for a role that values continuous learning and allows me to make meaningful contributions.
+          </p>          
           <a href={CV} download className='btn primary'>Download CV <HiDownload /></a>
         </div>
       </div>
