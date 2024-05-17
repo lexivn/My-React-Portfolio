@@ -37,7 +37,7 @@ const About = () => {
           To turn my passion for programming into my daily work, I completed the Full-Stack Web Developer program at Career Foundry (Berlin, Germany), learning JavaScript, Node.js, Express, React, Angular NoSQL and much more.
           </p>
           <p>
-          Originally from Peru, I was fortunate to live and work for many years in Italy as a Project Engineer and gain valuable experience in back-end development using C++ and C#. Now I am proud to live in Jacksonville, in the beautiful sunny state of Florida, USA.
+          Originally from Peru, I was fortunate to live and work for many years in Italy as a Project Engineer and gain valuable experience in back-end development using C++ and C#. Now I am proud to live in Jacksonville, in the beautiful sunshine state of Florida, USA.
           </p>
           <p>
           Currently, I'm on the lookout for a role that values continuous learning and allows me to make meaningful contributions.
