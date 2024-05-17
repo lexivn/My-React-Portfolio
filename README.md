@@ -15,9 +15,9 @@ Welcome to my personal portfolio page! Here you'll find information about myself
 
 ## Project dependencies
 
-React
-CSS
-Bootstrap
+- React
+- CSS
+- Bootstrap
 
 Link to my portfolio page
 <a href="https://webreact-portfolio.netlify.app/">Click Here</a>
