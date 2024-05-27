@@ -13,7 +13,7 @@ const Header = () => {
         <h3>Alex Soto</h3>
         <p>
           You are click away from building your dream website or web app. Send
-          me the details of your project for a moder, mobile, responsive, highly
+          me the details of your project for a modern, mobile, responsive, highly
           performant website today!
         </p>
         <div className="header__cta">
