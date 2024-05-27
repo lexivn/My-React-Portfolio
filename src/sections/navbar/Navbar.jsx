@@ -1,7 +1,6 @@
 import React from "react";
 import Logo from "../../assets/logo.png";
 import data from "./data";
-import { IoIosColorPalette } from "react-icons/io";
 
 import "./navbar.css";
 
@@ -18,8 +17,7 @@ const Navbar = () => {
               <a href={item.link}>{item.title}</a>
             </li>
           ))}
-        </ul>
-        {/* <button id='theme__icon'><IoIosColorPalette /></button> */}
+        </ul>        
       </div>
     </nav>
   );
