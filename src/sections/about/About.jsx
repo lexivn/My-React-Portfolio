@@ -26,21 +26,22 @@ const About = () => {
             ))}
           </div>
           <p>
-            My name is Alex Soto, passionate about web development, electronics
-            and Technology.
+            My name is Alex Soto, passionate about Web Development and
+            Technology.
           </p>
           <p>
-            With a background in Electronic Engineering, IT, Networking and
-            Electronics. My passion for programming was born at a very young age
-            programming microcontrollers for my electronic projects, with the
-            passing of time I saw the birth of IOT and I was impressed with all
-            that can be created combining electronics and web development.
+            With a background in Electronic Engineering, IT, and Networking. My
+            passion for programming was born at a very young age programming
+            microcontrollers for my electronic projects, with the passing of
+            time I saw the birth of IOT and I was impressed with all that can be
+            created combining electronics and web development.
           </p>
           <p>
-            To turn my passion for programming into my daily work, I completed
-            the Full-Stack Web Developer program at Career Foundry (Berlin,
-            Germany), learning JavaScript, Bootstrap, React.js, Angular.js, Node.js,
-            Express.js, MongoDB, PostgreSQL and much more.
+            To turn my passion for programming into my daily work,{" "}
+            <b>I completed the Full-Stack Web Development</b> program at Career
+            Foundry (Berlin, Germany), learning <b>JavaScript</b>,{" "}
+            <b>Bootstrap</b>, <b>React.js</b>, <b>Angular.js</b>, <b>Node.js</b>
+            ,<b>Express.js</b>, <b>MongoDB</b>, <b>PostgreSQL</b> and much more.
           </p>
           <p>
             Originally from Peru, I was fortunate to live and work for many
