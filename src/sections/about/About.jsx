@@ -32,9 +32,9 @@ const About = () => {
           <p>
             With a background in Electronic Engineering, IT, and Networking. My
             passion for programming was born at a very young age programming
-            microcontrollers for my electronic projects, with the passing of
-            time I saw the birth of IOT and I was impressed with all that can be
-            created combining electronics and web development.
+            microcontrollers for my electronic projects. Witnessing the rise of
+            IoT, I became fascinated by the potential of combining electronics
+            with web development.
           </p>
           <p>
             To turn my passion for programming into my daily work,{" "}
@@ -47,11 +47,9 @@ const About = () => {
             Originally from Peru, I was fortunate to live and work for many
             years in Italy as a Project Engineer and gain valuable experience in
             back-end development using C++ and C#. Now I am proud to live in
-            Jacksonville, in the beautiful sunshine state of Florida, USA.
-          </p>
-          <p>
-            Seeking to contribute to a dynamic team and build scalable,
-            user-centric solutions that enhance user experience and drive
+            Jacksonville, in the beautiful sunshine state of Florida, USA, am
+            eager to leverage my skills in a dynamic team to build scalable,
+            user-centric web solutions that enhance user experience and drive
             business success.
           </p>
           <a href={CV} download className="btn primary">
