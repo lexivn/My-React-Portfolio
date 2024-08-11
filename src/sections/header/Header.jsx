@@ -1,5 +1,4 @@
 import HeaderImage from "../../assets/header.png";
-// import HeaderImage from '../../assets/header-asoto.jpg'
 import data from "./data";
 import "./header.css";
 
