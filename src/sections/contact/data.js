@@ -3,7 +3,7 @@ import {RiMessengerLine} from 'react-icons/ri'
 import {FaWhatsapp} from 'react-icons/fa'
 
 const data = [
-    {id: 1, icon: <HiOutlineMail/>, link: 'mailto:msae26@hotmail.com'},    
+    {id: 1, icon: <HiOutlineMail/>, link: 'mailto:sotosantos.ae@gmail.com'},    
     {id: 2, icon: <RiMessengerLine/>, link: 'https://m.me/al3xisedson'},
     {id: 3, icon: <FaWhatsapp/>, link: 'https://wa.me/+19045051687'}
 ]
