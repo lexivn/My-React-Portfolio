@@ -14,7 +14,8 @@ const data = [
         title: "MovieApi Client React Portfolio Project (Frontend)",
         desc: "Welcome to MovieApiClient, a React-based portfolio project representing my expertise in building dynamic web applications. This client-side application interacts with the Movie API, providing an intuitive and responsive user interface.",
         demo: 'https://mobiflix.netlify.app/',
-        github: 'https://github.com/lexivn/myFlix-client'
+        github: 'https://github.com/lexivn/myFlix-client',
+        studycase: 'https://www.google.com/'
     },
     {
         id: 2,
@@ -23,7 +24,8 @@ const data = [
         title: "MyFlix Angular Client Portfolio Project (Frontend)",
         desc: "Welcome to MovieApiAngularClient, a portfolio project showcasing my skills in building Angular applications. This project serves as a client for the Movie API, displaying movie data with a user-friendly interface using Angular Material.",
         demo: 'https://voluble-bublanina-f362f9.netlify.app',
-        github: 'https://github.com/lexivn/myFlix-Angular-client'
+        github: 'https://github.com/lexivn/myFlix-Angular-client',
+        studycase: null
     },
     {
         id: 3,
@@ -32,7 +34,8 @@ const data = [
         title: "Pokédex Portfolio Project (Frontend)",
         desc: "Pokédex Application The Pokédex application displays a list of Pokémon and allows the user to view details for each of them. ",
         demo: 'https://lexivn.github.io/Pokedex',
-        github: 'https://github.com/lexivn/Pokedex'
+        github: 'https://github.com/lexivn/Pokedex',
+        studycase: null
     },
     {
         id: 4,
@@ -41,7 +44,8 @@ const data = [
         title: "Meet App (Serverless Web App)",
         desc: "Meet is a Progressive Web App (PWA) designed to manage events seamlessly both online and offline. Users can log in using Google's OAuth, access their Google Calendar events, and interact with a user-friendly interface.",
         demo: 'https://lexivn.github.io/meet/',
-        github: 'https://github.com/lexivn/meet'
+        github: 'https://github.com/lexivn/meet',
+        studycase: null
     },
     {
         id: 5,
@@ -50,7 +54,8 @@ const data = [
         title: "Chat App Portfolio Project (Mobile App)",
         desc: "The chat app is for mobile devices using React Native. The app will provide users with a chat interface and options to chat, share images and their location.",
         demo: 'https://github.com/lexivn/chat-app',
-        github: 'https://github.com/lexivn/chat-app'
+        github: 'https://github.com/lexivn/chat-app',
+        studycase: null
     },
     {
       id: 6,
@@ -59,7 +64,8 @@ const data = [
       title: "Movie App Project (Backend)",
       desc: "This API provides information about movies, genres, and directors. Users can interact with the API to retrieve details about movies, genres, directors, create new users, and manage their favorite movies.",
       demo: 'https://lexivn.github.io/movie_api/',
-      github: 'https://github.com/lexivn/movie_api'
+      github: 'https://github.com/lexivn/movie_api',
+      studycase: null
   }     
 ]
 

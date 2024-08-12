@@ -25,6 +25,18 @@ const Project = ({ project }) => {
         >
           GitHub
         </a>
+        {project.studycase ? 
+        (
+        <a
+         href={project.studycase}
+         className="btn sm secondary"
+         target="_blank"
+         rel="noopner noreferrer"
+         >
+          Study Case
+         </a>
+        ):(<p></p>)}
+        
       </div>
     </Card>
   );

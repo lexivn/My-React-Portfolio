@@ -18,6 +18,7 @@
     --color-light: hsl(var(--primary-hue), 5%, var(--light-lightness));
     --color-black: hsl(var(--primary-hue), 5%, var(--black-lightness));
     --color-dark: hsl(var(--primary-hue), 5%, var(--dark-lightness));
+    --color-green: hsl(165.8,51.8%,48%);
 
     /* GENERAL CONTAINER VARIABLES */
     --container-width-lg: 76%;
@@ -155,6 +156,17 @@ img {
   background: transparent;
   border-color: var(--color-primary);
   color: var(--color-primary);
+}
+
+.btn.secondary {
+  background-color: var(--color-green);
+  color: white;
+}
+
+.btn.secondary:hover {
+  background: transparent;
+  border-color: var(--color-green);
+  color: var(--color-green);
 }
 
 .btn.sm {
