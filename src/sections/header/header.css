@@ -46,7 +46,8 @@ header {
 }
 
 .header__socials a {
-  width: 1.8rem;
+  width: 2.8rem;
+  height: 2.8rem;
   aspect-ratio: 1/1;  /* When width change, height also change */
   background: var(--color-light);  
   color: var(--color-black);
@@ -72,9 +73,9 @@ header {
 /* MEIDA QUERIES ()*/
 @media screen and (max-width: 600px ){
   .header__profile {
-    width: 14rem;
+    width: 17rem;
     height: 17rem;
-    max-width: 60%;
+    max-width: 70%;
     max-height: 35vh;
   }
   
