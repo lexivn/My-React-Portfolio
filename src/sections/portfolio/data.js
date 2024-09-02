@@ -15,7 +15,7 @@ const data = [
         desc: "Welcome to MovieApiClient, a React-based portfolio project representing my expertise in building dynamic web applications. This client-side application interacts with the Movie API, providing an intuitive and responsive user interface.",
         demo: 'https://mobiflix.netlify.app/',
         github: 'https://github.com/lexivn/myFlix-client',
-        studycase: 'https://www.google.com/'
+        studycase: 'https://www.figma.com/proto/h0oJ1EGI6DrLHty5rfrFkX/MobiFlix-Study-Case-(Bkp_090224_1238)?node-id=212-6767&node-type=FRAME&t=nlvtkgfG5L2cu5fo-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1'
     },
     {
         id: 2,
